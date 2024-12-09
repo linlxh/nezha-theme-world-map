@@ -1,4 +1,4 @@
-const domain = "217.142.235.109:8008";
+const domain = "http://217.142.235.109:8008";
 
 export default {
   async fetch(request, env) {
