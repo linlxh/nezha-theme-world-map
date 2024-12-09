@@ -1,4 +1,4 @@
-const domain = "nezha.net.ng";
+const domain = "nz.nezha.net.ng";
 
 export default {
   async fetch(request, env) {
